@@ -156,7 +156,7 @@
             Exple:- x = 10
                     def my_function():
                     print(x)
-     * my_functioA local variable is a variable that is defined inside a function and 
+     * my_function A local variable is a variable that is defined inside a function and 
      * can only be accessed within that function.n() # output: 10
       
            Expl:-def my_function():
